@@ -329,18 +329,6 @@ For future cybersecurity laboratory projects, i plan to:
 |---|---|
 | Project | Cybersecurity Lab — Week 01 |
 | Topic | Kali Linux Deployment & Virtualization |
-| Skill | Cybersecurity |
-| Host Computer | Lenovo Laptop |
-| Model/Type | 81H5 |
-| Host Operating System | Windows |
-| Host RAM | 4 GB |
-| Virtualization | VirtualBox v7.2 |
-| Guest Operating System | Kali Linux v2026.2 |
-| Networking | NAT |
-| Main Challenge | Limited RAM |
-| Secondary Challenge | Slow VM startup |
-| Troubleshooting | Resource optimization and application management |
-| Future Hardware Improvement | Upgrade to 8 GB RAM or more |
 | Status | Completed |
 
 ---
