@@ -258,8 +258,9 @@ ping -c 4 networkwalks.com
 
 | Command | Purpose |
 |---|---|
-| `whoami` | Shows the current user |
-| `ping -c 4 networkwalks.com` | Tests network connectivity |
+ | `ping -c 4 networkwalks.com` | Tests network connectivity |
+ | `whoami` | Shows the current user |
+| `pwd` | Displays the current working directory |
 
 ---
 
