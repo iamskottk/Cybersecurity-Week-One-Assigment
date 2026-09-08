@@ -128,26 +128,6 @@ whoami
 
 ---
 
-## List Files and Directories
-
-```bash
-ls
-```
-
-**Purpose:** Displays files and directories in the current location.
-
----
-
-## Check Network Interfaces
-
-```bash
-ip addr
-```
-
-**Purpose:** Displays available network interfaces and IP address information.
-
----
-
 # 🌐 Network Connectivity Testing
 
 Network connectivity was tested from the Kali Linux virtual machine using:
@@ -218,13 +198,11 @@ The limited RAM affected:
 The following steps were used to reduce resource usage:
 
 - Closed unnecessary Windows applications
-- Closed unnecessary browser tabs
 - Avoided running multiple resource intensive applications
-- Adjusted virtual machine resources where possible
 - Reduced unnecessary background activity
 - Allowed Kali Linux additional time to start
 
-### Long-Term Solution
+### Long Term Solution
 
 A future upgrade from **4 GB RAM to 8 GB RAM or more** would provide a better environment for running Kali Linux and other cybersecurity tools in a virtual machine.
 
@@ -245,11 +223,9 @@ The slow startup was associated with the limited hardware resources available on
 The following troubleshooting actions were used:
 
 1. Closed unnecessary Windows applications.
-2. Closed unnecessary browser tabs.
-3. Avoided running additional resource intensive software.
-4. Adjusted VirtualBox resources where possible.
-5. Allowed Kali Linux sufficient time to complete startup.
-6. Monitored system responsiveness during startup.
+2. Avoided running additional resource intensive software.
+3. Allowed Kali Linux sufficient time to complete startup.
+4. Monitored system responsiveness during startup.
 
 ### Result
 
@@ -275,9 +251,6 @@ The following Linux commands were used during the laboratory:
 ```bash
 whoami
 pwd
-ls
-uname -a
-ip addr
 ping -c 4 networkwalks.com
 ```
 
@@ -286,8 +259,6 @@ ping -c 4 networkwalks.com
 | Command | Purpose |
 |---|---|
 | `whoami` | Shows the current user |
-| `ls` | Lists files and directories |
-| `ip addr` | Displays network interface and IP information |
 | `ping -c 4 networkwalks.com` | Tests network connectivity |
 
 ---
@@ -310,7 +281,7 @@ Oracle VirtualBox was used to create and run the Kali Linux virtual machine.
 
 https://kali.org/get-kali
 
-Kali Linux was used as the cybersecurity-focused operating system for the virtual laboratory environment.
+Kali Linux was used as the cybersecurity focused operating system for the virtual laboratory environment.
 ---
 
 # 📚 Key Learning Outcomes
@@ -319,19 +290,12 @@ This project helped me develop practical knowledge of:
 
 - Cybersecurity laboratory setup
 - Virtualization
-- Oracle VirtualBox
-- Kali Linux
-- Linux operating systems
 - Linux terminal commands
-- System administration
 - Network interfaces
-- IP addressing
 - NAT networking
 - Network connectivity testing
 - Hardware resource allocation
 - Virtual machine troubleshooting
-
-
 ---
 
 # 💭 Technical Reflection
@@ -348,15 +312,14 @@ The experience also demonstrated the importance of monitoring system performance
 
 # 🔮 Future Improvements
 
-For future cybersecurity laboratory projects, I plan to:
+For future cybersecurity laboratory projects, i plan to:
 
 - Upgrade the laptop RAM to 8 GB or more
 - Improve Kali Linux virtual machine performance
 - Explore additional Kali Linux security tools
-- Perform controlled network-security exercises
+- Perform controlled network security exercises
 - Learn additional Linux commands
 - Build more cybersecurity laboratory projects
-- Improve technical documentation
 
 ---
 
