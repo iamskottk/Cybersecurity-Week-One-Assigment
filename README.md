@@ -174,7 +174,7 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ### 01 — Internet Connectivity Test
 
-![Internet Connectivity Test](IMG_6491.png)
+![Internet Connectivity Test](internet checking.PNG)
 
 After installing Kali Linux, an internet connectivity test was performed using the `ping` command.
 
