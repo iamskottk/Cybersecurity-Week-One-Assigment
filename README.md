@@ -184,6 +184,11 @@ After installing Kali Linux, an internet connectivity test was performed using t
 
 The `whoami` command was used in Kali Linux to identify the currently logged-in user.
 
+### 03 — Checking the Current Directory
+
+![PWD Command](IMG_6497.png)
+
+The `pwd` command was used in Kali Linux to display the current working directory.
 
 ## ⚠️ Problems Encountered & Solutions
 
