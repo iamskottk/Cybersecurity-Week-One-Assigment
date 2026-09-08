@@ -170,6 +170,24 @@ The `whoami` command was used in Kali Linux to identify the currently logged-in 
 
 The `pwd` command was used in Kali Linux to display the current working directory.
 
+
+# 🧪 Commands Tested
+
+The following Linux commands were used during the laboratory:
+
+```bash
+whoami
+pwd
+ping -c 4 networkwalks.com
+```
+
+## Command Summary
+
+| Command | Purpose |
+|---|---|
+ | `ping -c 4 networkwalks.com` | Tests network connectivity |
+ | `whoami` | Shows the current user |
+| `pwd` | Displays the current working directory |
 ## ⚠️ Problems Encountered & Solutions
 
 During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
@@ -241,26 +259,6 @@ The virtual machine was able to start and operate, although performance remained
 | Slow VM startup | Limited host resources | Reduced background processes and adjusted VM resources |
 | Reduced host responsiveness | Windows and VM competing for memory | Avoided running unnecessary applications simultaneously |
 | Limited VM performance | Hardware limitation | Planned RAM upgrade to 8 GB or more |
-
----
-
-# 🧪 Commands Tested
-
-The following Linux commands were used during the laboratory:
-
-```bash
-whoami
-pwd
-ping -c 4 networkwalks.com
-```
-
-## Command Summary
-
-| Command | Purpose |
-|---|---|
- | `ping -c 4 networkwalks.com` | Tests network connectivity |
- | `whoami` | Shows the current user |
-| `pwd` | Displays the current working directory |
 
 ---
 
