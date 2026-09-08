@@ -180,7 +180,7 @@ After installing Kali Linux, an internet connectivity test was performed using t
 
 ### 02 — Identifying the Current User
 
-![Whoami Command](IMG_6495.png)
+![Whoami Command](IMG_6496.png)
 
 The `whoami` command was used in Kali Linux to identify the currently logged-in user.
 
