@@ -1,4 +1,3 @@
----
 ![Cybersecurity First Week Achievement Badge](IMG_6581.png)
 ---
 ## 📌 Project Overview
