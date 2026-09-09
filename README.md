@@ -1,3 +1,4 @@
+---
 ![Cybersecurity First Week Achievement Badge](IMG_6582.png)
 ---
 ## 📌 Project Overview
@@ -162,18 +163,6 @@ The `whoami` command was used in Kali Linux to identify the currently logged-in 
 ![PWD Command](IMG_6497.png)
 
 The `pwd` command was used in Kali Linux to display the current working directory.
-## 🎬 Week 1 — Cybersecurity in Action
-
-## A short practical demonstration of the Linux commands covered during Week 1.
-
-### 🖥️ Commands Demonstrated
-
-- `ping` — Network connectivity testing
-- `whoami` — Identifying the current user
-- `pwd` — Displaying the current working directory
-
-🎥 **Watch the demonstration:** [Week 1 Cybersecurity Demo](evidence.mp4)
-
 # 🧪 Commands Tested
 
 The following Linux commands were used during the laboratory:
