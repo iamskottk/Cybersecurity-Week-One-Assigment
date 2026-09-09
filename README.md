@@ -41,31 +41,17 @@ The main objectives of this project was to:
 | 🎯 **Skill** | Cybersecurity |
 | 🖥️ **VirtualBox** | Oracle VirtualBox **7.2** |
 | 🐉 **Operating System** | Kali Linux **2026.2** |
----
-
 ## 💻 Lab Environment
 
-### 🖥️ Host Computer
+> **Cybersecurity Lab Specification**
 
-| Component | Details |
-|---|---|
-| Computer | Lenovo Laptop |
-| Model/Type | 81H5 |
-| Host Operating System | Windows |
-| RAM | 4 GB |
-
-### 🐧 Virtual Machine
-
-| Resource | Configuration |
-|---|---|
-| Operating System | Kali Linux v2026.2 |
-| Virtualization Platform | Oracle VirtualBox v7.2 |
-| Network Mode | NAT |
-| RAM | Configured according to available host resources |
-| CPU | Configured according to available host resources |
-| Storage | Virtual disk |
-
----
+| 🖥️ **HOST SYSTEM** | 🐧 **VIRTUAL LAB** |
+|:---|:---|
+| **Lenovo Laptop · 81H5** | **Kali Linux · v2026.2** |
+| Windows · **4 GB RAM** | Oracle VirtualBox · **v7.2** |
+|  | Network · **NAT** |
+|  | RAM + CPU · *Configured according to available host resources* |
+|  | Storage · **Virtual Disk** |
 
 # 🚀 Kali Linux Deployment
 
