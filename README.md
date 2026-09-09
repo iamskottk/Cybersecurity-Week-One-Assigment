@@ -328,12 +328,14 @@ This laboratory environment is intended for controlled and authorized cybersecur
 
 ---
 
-# 📖 References
+## 📚 References
 
-- [Kali Linux Documentation](https://www.kali.org/docs/)
-- [Oracle VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
-- [GitHub Documentation](https://docs.github.com/)
-- [7-Zip Documentation](https://7-zip.org/)
+*Official documentation used in this project.*
+
+🐉 **Kali Linux** · [Documentation →](https://www.kali.org/docs/)  
+📦 **Oracle VirtualBox** · [Documentation →](https://docs.oracle.com/en/virtualization/virtualbox/)  
+🐙 **GitHub** · [Documentation →](https://docs.github.com/)  
+🗜️ **7-Zip** · [Documentation →](https://www.7-zip.org/)
 
 ---
 
