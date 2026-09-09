@@ -1,8 +1,9 @@
 ---
 ![Cybersecurity First Week Achievement Badge](IMG_6581.png)
+---
 ## 📌 Project Overview
 This project documents my first practical cybersecurity laboratory exercise.
-
+---
 The objective is to build a virtual cybersecurity laboratory environment for penetration testing and ethical hacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
 
 The project provided practical experience with:
