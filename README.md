@@ -1,13 +1,7 @@
-## 🏆 Creating a controlled cyber range to explore ethical hacking, real world attack surfaces, and practical security testing.
-
-![Cybersecurity First Week Achievement Badge](IMG_6580.png)
-
+![Cybersecurity First Week Achievement Badge](IMG_6581.png)
 ## Kali Linux on VirtualBox
-
 ---
-
 ## 📌 Project Overview
-
 This project documents my first practical cybersecurity laboratory exercise.
 
 The objective is to build a virtual cybersecurity laboratory environment for penetration testing and ethical hacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
