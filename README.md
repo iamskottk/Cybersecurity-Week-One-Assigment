@@ -1,5 +1,4 @@
 ![Cybersecurity First Week Achievement Badge](IMG_6581.png)
-## Kali Linux on VirtualBox
 ---
 ## 📌 Project Overview
 This project documents my first practical cybersecurity laboratory exercise.
