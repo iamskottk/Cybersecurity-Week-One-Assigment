@@ -2,6 +2,10 @@
 
 # 🔐 Cybersecurity Lab : Week 1
 
+## 🏆 Achievement Badge
+
+![Cybersecurity First Week Achievement Badge](badge.png)
+
 ## Kali Linux on VirtualBox
 
 ---
