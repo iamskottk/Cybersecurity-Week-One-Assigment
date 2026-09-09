@@ -222,8 +222,8 @@ Kali Linux experienced longer startup times due to the host's limited resources,
 | 🖥️ **Oracle VirtualBox** | Oracle VirtualBox was used to create and run the Kali Linux virtual machine. | [Download VirtualBox →](https://virtualbox.org/wiki/Downloads) |
 | 🐉 **Kali Linux** | Kali Linux was used as the primary operating system for the hands-on cybersecurity laboratory and security testing exercises. | [Get Kali Linux →](https://kali.org/get-kali) |
 
-Kali Linux was used as the Cybersecurity focused operating system for the virtual laboratory environment.
----
+**Kali Linux was used as the Cybersecurity focused operating system for the virtual laboratory environment*.
+
 
 # 📚 Key Learning Outcomes
 
@@ -256,14 +256,17 @@ For future cybersecurity laboratory projects, i plan to:
 - Build more cybersecurity laboratory projects
 
 ---
+## 📊 Project Summary
 
-# 📊 Project Summary
+> **Week 01 | Cybersecurity Lab**
 
-| Category | Details |
+| | |
 |---|---|
-| Project | Cybersecurity Lab — Week 01 |
-| Topic | Kali Linux Deployment & Virtualization |
-| Status | Completed |
+| 🎯 **Project** | Cybersecurity Lab — Week 01 |
+| 🛡️ **Focus** | Kali Linux Deployment & Virtualization |
+| 💻 **Platform** | Oracle VirtualBox |
+| 🔐 **Environment** | Isolated Cybersecurity Lab |
+| ✅ **Status** | Completed |
 
 ---
 
