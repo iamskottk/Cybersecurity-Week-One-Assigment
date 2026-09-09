@@ -36,10 +36,10 @@ The main objectives of this project was to:
 
 ## 🔐 Cybersecurity Lab Environment
 
-| 🧩 Component | ⚙️ Configuration |
+| 🧩 Component | ⚙️ Details |
 |:---|:---|
 | 🎯 **Skill** | Cybersecurity |
-| 🖥️ **Virtualisation Platform** | Oracle VirtualBox **7.2** |
+| 🖥️ **VirtualBox** | Oracle VirtualBox **7.2** |
 | 🐉 **Operating System** | Kali Linux **2026.2** |
 ---
 
