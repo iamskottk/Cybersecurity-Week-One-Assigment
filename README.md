@@ -13,7 +13,6 @@ The project provided practical experience with:
 - Virtualization
 - Kali Linux
 - Linux system administration
-- Networking
 - Troubleshooting
   
 
@@ -30,8 +29,6 @@ The main objectives of this project was to:
 - Configure virtual machine resources
 - Start and access Kali Linux
 - Test network connectivity
-- Understand NAT networking
-
 ---
 
 ## 🔐 Cybersecurity Lab Environment
@@ -106,7 +103,7 @@ After starting Kali Linux, basic Linux terminal commands were used to validate t
 whoami
 ```
 
-**Purpose:** Displays the username of the currently logged-in user.
+**Purpose:** Displays the username of the currently logged in user.
 
 ---
 
@@ -144,7 +141,7 @@ After installing Kali Linux, an internet connectivity test was performed using t
 
 ![Whoami Command](IMG_6496.png)
 
-The `whoami` command was used in Kali Linux to identify the currently logged-in user.
+The `whoami` command was used in Kali Linux to identify the currently logged in user.
 
 ### 03 — Checking the Current Directory
 
@@ -222,7 +219,7 @@ Kali Linux experienced longer startup times due to the host's limited resources,
 | 🖥️ **Oracle VirtualBox** | Oracle VirtualBox was used to create and run the Kali Linux virtual machine. | [Download VirtualBox →](https://virtualbox.org/wiki/Downloads) |
 | 🐉 **Kali Linux** | Kali Linux was used as the primary operating system for the hands-on cybersecurity laboratory and security testing exercises. | [Get Kali Linux →](https://kali.org/get-kali) |
 
-**Kali Linux was used as the Cybersecurity focused operating system for the virtual laboratory environment*.
+*Kali Linux was used as the Cybersecurity focused operating system for the virtual laboratory environment*.
 
 
 # 📚 Key Learning Outcomes
@@ -298,7 +295,7 @@ This laboratory environment is intended for controlled and authorized cybersecur
 
 > `Learning → Building → Testing → Securing`
 
-This repository forms part of my practical cybersecurity learning portfolio, documenting hands-on labs, security experiments, and technical progression.
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
 
 ### 🌐 Cybersecurity Journey
 
