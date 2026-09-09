@@ -1,10 +1,6 @@
-# Cybersecurity Week one-run Kali Linux for the first time in VirtualBox
+## 🏆 Creating a practical virtual lab for learning Cybersecurity, network security, and ethical hacking techniques
 
-# 🔐 Cybersecurity Lab : Week 1
-
-## 🏆 Achievement Badge
-
-![Cybersecurity First Week Achievement Badge](badge.png)
+![Cybersecurity First Week Achievement Badge](IMG_6579.png)
 
 ## Kali Linux on VirtualBox
 
