@@ -1,6 +1,5 @@
 ---
 ![Cybersecurity First Week Achievement Badge](IMG_6582.png)
----
 ## 📌 Project Overview
 This project documents my first practical cybersecurity laboratory exercise.
 ---
