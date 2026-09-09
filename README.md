@@ -257,23 +257,13 @@ The virtual machine was able to start and operate, although performance remained
 
 # 🛠️ Tools & Resources
 
-## 📦 7-Zip
+| 🧰 Tool | 📋 Description | 🔗 Resource |
+|:---|:---|:---|
+| 📦 **7-Zip** | 7-Zip was used as a file compression and extraction utility when working with downloaded files and archives. | [Download 7-Zip →](https://7-zip.org/download.html) |
+| 🖥️ **Oracle VirtualBox** | Oracle VirtualBox was used to create and run the Kali Linux virtual machine. | [Download VirtualBox →](https://virtualbox.org/wiki/Downloads) |
+| 🐉 **Kali Linux** | Kali Linux was used as the primary operating system for the hands-on cybersecurity laboratory and security testing exercises. | [Get Kali Linux →](https://kali.org/get-kali) |
 
-https://7-zip.org/download.html
-
-7-Zip was used as a file compression and extraction utility when working with downloaded files and archives.
-
-## 🖥️ Oracle VirtualBox
-
-https://virtualbox.org/wiki/Downloads
-
-Oracle VirtualBox was used to create and run the Kali Linux virtual machine.
-
-## 🐉 Kali Linux
-
-https://kali.org/get-kali
-
-Kali Linux was used as the cybersecurity focused operating system for the virtual laboratory environment.
+Kali Linux was used as the Cybersecurity focused operating system for the virtual laboratory environment.
 ---
 
 # 📚 Key Learning Outcomes
