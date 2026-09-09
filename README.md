@@ -1,8 +1,8 @@
 ---
 ## ![Cybersecurity First Week Achievement Badge](IMG_6582.png)
 ---
-## 🐧 My first hands on cybersecurity lab, where i deployed Kali Linux in Oracle VirtualBox and established a controlled environment for ethical hacking and security testing.
----
+🐧 My first hands on cybersecurity lab, where i deployed Kali Linux in Oracle VirtualBox and established a controlled environment for ethical hacking and security testing.
+
 ## 📌 Project Overview
 This project documents my first practical cybersecurity laboratory exercise.
 ---
