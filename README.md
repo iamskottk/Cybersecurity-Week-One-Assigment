@@ -29,7 +29,6 @@ The main objectives of this project was to:
 - Deploy Kali Linux in a virtual machine
 - Configure virtual machine resources
 - Start and access Kali Linux
-- Check system information
 - Test network connectivity
 - Understand NAT networking
 
@@ -283,12 +282,9 @@ This project helped me develop practical knowledge of:
 
 - Cybersecurity laboratory setup
 - Virtualization
-- Linux terminal commands
 - Network interfaces
 - NAT networking
-- Network connectivity testing
 - Hardware resource allocation
-- Virtual machine troubleshooting
 ---
 
 # 💭 Technical Reflection
@@ -306,12 +302,8 @@ The experience also demonstrated the importance of monitoring system performance
 # 🔮 Future Improvements
 
 For future cybersecurity laboratory projects, i plan to:
-
-- Upgrade the laptop RAM to 8 GB or more
-- Improve Kali Linux virtual machine performance
 - Explore additional Kali Linux security tools
 - Perform controlled network security exercises
-- Learn additional Linux commands
 - Build more cybersecurity laboratory projects
 
 ---
@@ -345,13 +337,13 @@ This laboratory environment is intended for controlled and authorized cybersecur
 
 ---
 
-# 👤 Author
+## 👤 Author
 
-**Kabo Sekoto**
+**Kabo Sekoto**  
+🔐 Junior Cybersecurity Practitioner
 
-**Junior Cybersecurity**
+> *Learning. Building. Testing. Securing.*
 
-This repository forms part of my practical cybersecurity learning portfolio and documents my progress through hands on laboratory exercises.
+A hands on cybersecurity portfolio documenting practical laboratory exercises, technical experimentation and my journey from foundational concepts to real world security practices.
 
-**LinkedIn:**  
-https://linkedin.com/in/kabo-sekoto-706429259/
+🔗 [LinkedIn](https://linkedin.com/in/kabosekoto/)
