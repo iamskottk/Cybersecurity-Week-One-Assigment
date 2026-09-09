@@ -1,6 +1,6 @@
-## 🏆 Creating a practical virtual lab for learning Cybersecurity, network security, and ethical hacking techniques
+## 🏆 Creating a controlled cyber range to explore ethical hacking, real world attack surfaces, and practical security testing.
 
-![Cybersecurity First Week Achievement Badge](IMG_6579.png)
+![Cybersecurity First Week Achievement Badge](IMG_6580.png)
 
 ## Kali Linux on VirtualBox
 
