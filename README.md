@@ -50,7 +50,7 @@ The main objectives of this project was to:
 | **Lenovo Laptop · 81H5** | **Kali Linux · v2026.2** |
 | Windows · **4 GB RAM** | Oracle VirtualBox · **v7.2** |
 |  | Network · **NAT** |
-|  | RAM + CPU · *Configured according to available host resources* |
+|  | RAM and CPU · *Configured according to available host resources* |
 |  | Storage · **Virtual Disk** |
 
 # 🚀 Kali Linux Deployment
@@ -161,13 +161,17 @@ pwd
 ping -c 4 networkwalks.com
 ```
 
-## Command Summary
+## ⌨️ Command Summary
 
-| Command | Purpose |
-|---|---|
- | `ping -c 4 networkwalks.com` | Tests network connectivity |
- | `whoami` | Shows the current user |
-| `pwd` | Displays the current working directory |
+<p align="center">
+
+| 🌐 **NETWORK** | 👤 **IDENTITY** | 📂 **NAVIGATION** |
+|:---:|:---:|:---:|
+| `ping -c 4 networkwalks.com` | `whoami` | `pwd` |
+| **Connectivity Test** | **User Identification** | **Directory Check** |
+
+</p>
+
 ## ⚠️ Problems Encountered & Solutions
 
 During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
