@@ -339,11 +339,21 @@ This laboratory environment is intended for controlled and authorized cybersecur
 
 ## 👤 Author
 
-**Kabo Sekoto**  
-🔐 Junior Cybersecurity Practitioner
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-> *Learning. Building. Testing. Securing.*
+> `Learning → Building → Testing → Securing`
 
-A hands on cybersecurity portfolio documenting practical laboratory exercises, technical experimentation and my journey from foundational concepts to real world security practices.
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands-on labs, security experiments, and technical progression.
 
-🔗 [LinkedIn](https://linkedin.com/in/kabosekoto/)
+### 🌐 Cybersecurity Journey
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
