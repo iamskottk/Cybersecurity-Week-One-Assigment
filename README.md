@@ -174,66 +174,34 @@ ping -c 4 networkwalks.com
 
 ## ⚠️ Problems Encountered & Solutions
 
-During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
+### 01 — Limited RAM
 
-## Problem 1 — Limited RAM
+The host computer has **4 GB RAM**, which limited performance while running Windows, VirtualBox, Kali Linux and other applications.
 
-### Problem
+| Issue | Solution |
+|---|---|
+| 🐌 Slow system & VM performance | Closed unnecessary applications |
+| 💾 Limited available memory | Reduced background activity |
+| ⏳ Longer VM startup | Allowed additional startup time |
+| 🔧 Hardware limitation | Future upgrade to **8 GB RAM or more** |
 
-The host computer has only **4 GB of RAM**.
+**Result:** Kali Linux successfully operated within the available hardware resources.
 
-Running Windows, VirtualBox, Kali Linux, a web browser and other background applications simultaneously placed pressure on the available system memory.
+---
 
-As a result, Kali Linux became slow and overall computer responsiveness was reduced.
+### 02 — Slow Kali Linux Startup
 
-### Impact
+Kali Linux experienced longer startup times due to the host's limited resources, particularly the **4 GB RAM constraint**.
 
-The limited RAM affected:
-
-- Kali Linux startup time
-- Virtual machine responsiveness
-- Host computer performance
-- Ability to run other applications while Kali Linux was running
-
-### Solution
-
-The following steps were used to reduce resource usage:
-
+**Troubleshooting:**
 - Closed unnecessary Windows applications
-- Avoided running multiple resource intensive applications
-- Reduced unnecessary background activity
-- Allowed Kali Linux additional time to start
+- Reduced resource-intensive background processes
+- Avoided running multiple demanding applications
+- Allowed sufficient time for the VM to complete startup
 
-### Long Term Solution
+**Result:** Kali Linux successfully booted and the Cybersecurity laboratory environment became operational.
 
-A future upgrade from **4 GB RAM to 8 GB RAM or more** would provide a better environment for running Kali Linux and other cybersecurity tools in a virtual machine.
-
----
-
-## Problem 2 — Slow Kali Linux Startup
-
-### Problem
-
-Kali Linux took longer than expected to start inside VirtualBox.
-
-### Cause
-
-The slow startup was associated with the limited hardware resources available on the host computer, particularly the **4 GB RAM limitation**.
-
-### Solution
-
-The following troubleshooting actions were used:
-
-1. Closed unnecessary Windows applications.
-2. Avoided running additional resource intensive software.
-3. Allowed Kali Linux sufficient time to complete startup.
-4. Monitored system responsiveness during startup.
-
-### Result
-
-The virtual machine was able to start and operate, although performance remained limited because of the host computer's available resources.
-
----
+> 💡 **Key Lesson:** Proper resource management is essential when running virtualised Cybersecurity environments on limited hardware.
 
 ## 🔧 Troubleshooting
 
