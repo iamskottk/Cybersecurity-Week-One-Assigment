@@ -235,14 +235,14 @@ The virtual machine was able to start and operate, although performance remained
 
 ---
 
-## 🔧 Troubleshooting Summary
+## 🔧 Troubleshooting
 
-| 🖥️ Issue | 🔍 Cause | 🛠️ Resolution |
-|:---|:---|:---|
-| 🐌 **Slow Kali Linux** | Limited **4 GB host RAM** | Closed unnecessary applications and reduced resource usage |
-| ⏳ **Slow VM Startup** | Limited host resources | Reduced background processes and adjusted VM resources |
-| 💻 **Reduced Host Responsiveness** | Windows and VM competing for memory | Avoided running unnecessary applications simultaneously |
-| ⚙️ **Limited VM Performance** | Hardware limitation | Planned RAM upgrade to **8 GB or more** |
+| 🐌 **Issue** | 🔧 **Fix** |
+|:---|:---|
+| Slow Kali Linux | Closed unnecessary applications |
+| Slow VM startup | Reduced background processes |
+| Host responsiveness | Avoided unnecessary applications |
+| Limited VM performance | Planned **8 GB+ RAM** upgrade |
 
 ---
 
